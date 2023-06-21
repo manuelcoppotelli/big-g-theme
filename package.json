@@ -1,0 +1,34 @@
+{
+  "name": "big-g-light",
+	"displayName": "Big G Light Theme",
+  "version": "0.1.0",
+  "description": "Light theme for VS Code using Big G colors",
+  "repository": {
+    "type": "git",
+    "url": "github.com/manuelcoppotelli/big-g-light"
+  },
+  "keywords": [
+    "bigg",
+    "light",
+    "theme",
+    "vscode"
+  ],
+  "author": "Manuel Coppotelli",
+  "license": "MIT",
+  "publisher": "manuelcop",
+	"engines": {
+		"vscode": "^1.43.0"
+	},
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Big G - Light",
+        "uiTheme": "vs",
+        "path": "./themes/big-g-light.json"
+      }
+    ]
+  }
+}
