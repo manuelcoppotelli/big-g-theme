@@ -17,7 +17,7 @@ ln -s ~/Developer/src/manuelcoppotelli/big-g-light ~/.vscode/extensions/big-g-li
 ### k9s
 
 ```sh
-ln -s ~/Developer/src/manuelcoppotelli/big-g-light/big_g_skin.yml ~/Library/Application\ Support/k9s/skin.yml
+ln -s ~/Developer/src/manuelcoppotelli/big-g-light/big_g_skin.yaml ~/Library/Application\ Support/k9s/skins/big-g.yaml
 ```
 
 ### iTerm
