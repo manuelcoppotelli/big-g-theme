@@ -8,6 +8,12 @@ git clone https://github.com/manuelcoppotelli/big-g-light.git ~/Developer/src/ma
 
 ## Install
 
+### Warp Terminal
+
+```sh
+ln -s ~/Developer/src/manuelcoppotelli/big-g-light/big-g-warp.yaml ~/.warp/themes/big-g.yaml
+```
+
 ### VS Code
 
 ```sh
